@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  border: 1px solid #ccc;
+  margin: 12px;
+  padding: 12px;
+  list-style: none;
+}
+
+.item {
+  background-color: bisque;
+  padding: 4px 8px;
+  margin: 2px;
+  border-radius: 6px;
+}
+
+.lt {
+  text-decoration: line-through;
+}
